@@ -1,9 +1,12 @@
 🕘️更新时间,#genre#
-2026-11-19 11:24:45,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
+2026-11-20 03:21:23,https://yshipin.pages.dev/play/cctvfyjc$订阅源
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
+风云剧场,https://yshipin.pages.dev/play/cctvfyjc$订阅源
+风云剧场,https://yshipin.pages.dev/play/cctvfyjc$订阅源
+怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc$订阅源
 
 📡卫视频道,#genre#
 甘肃卫视,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
@@ -135,6 +138,7 @@
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8$订阅源
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8$订阅源
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8$订阅源
+平泉影视,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8$订阅源
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8$订阅源
 昌黎,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8$订阅源
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8$订阅源
